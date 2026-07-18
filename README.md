@@ -15,9 +15,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-arijitcodes05-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arijitcodes05)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Arijit%20Saha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arijit-saha-741b70329)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arisaha1405@gmail.com)
-
-![](https://komarev.com/ghpvc/?username=arijitcodes05&label=Profile%20Views&color=0e75b6&style=flat)
-
 </div>
 
 ---
