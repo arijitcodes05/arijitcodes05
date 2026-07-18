@@ -90,21 +90,23 @@ I believe strong engineering comes from mastering fundamentals rather than colle
 </p>
 
 ---
-
-# 📈 GitHub Statistics
+## 📊 GitHub Profile Summary
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=arijitcodes05&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arijitcodes05&layout=compact&theme=github_dark&hide_border=true"/>
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arijitcodes05&theme=github_dark" />
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=arijitcodes05&theme=github-dark-blue&hide_border=true"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arijitcodes05&theme=github_dark" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arijitcodes05&theme=github_dark" />
+
+<br><br>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arijitcodes05&theme=github_dark" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=arijitcodes05&theme=github_dark&utcOffset=5.5" />
 
 </div>
----
 
 # 📂 Featured Projects
 
@@ -319,7 +321,6 @@ Once completed, these repositories will represent my primary work.
 If you find any of my repositories useful, feel free to ⭐ them.
 
 </div>
----
 
 # 📈 Continuous Improvement
 
@@ -403,8 +404,6 @@ If you're interested in backend engineering, application security, or software d
 ---
 
 <div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=arijitcodes05&label=Profile%20Views&color=0e75b6&style=flat"/>
 
 <br><br>
 
